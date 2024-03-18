@@ -1,11 +1,12 @@
 ---
 layout: single
 title:  "테마 변경하기"
+categories: github_blog
+tags: [blog, theme]
+toc: true
 ---
 
-# 테마 변경하기
-
-### _config.yml 안에서 설정값을 변경하면 된다.
+### _config.yml 안에서 설정값을 변경
 
 [미니멀 미스테이크 가이드](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
 사이트에 가서 Configuration 클릭하면 Configuration 설정 방법이 있음. 

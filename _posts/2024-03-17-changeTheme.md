@@ -4,6 +4,9 @@ title:  "테마 변경하기"
 categories: github_blog
 tags: [blog, theme]
 toc: true
+author_profile: false
+sidebar:
+  nav: "docs"
 ---
 
 ### _config.yml 안에서 설정값을 변경

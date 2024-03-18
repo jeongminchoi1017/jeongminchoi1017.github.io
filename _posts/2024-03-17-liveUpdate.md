@@ -4,6 +4,9 @@ title:  "업데이트 내역 실시간 확인"
 categories: github_blog
 tags: [blog, live_update]
 toc: true
+author_profile: false
+sidebar:
+  nav: "docs"
 ---
 
 [실시간 업데이트 참고](https://www.youtube.com/watch?v=0TeHUqSAb6Q&list=PLIMb_GuNnFwfQBZQwD-vCZENL5YLDZekr&index=4)

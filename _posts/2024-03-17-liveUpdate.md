@@ -13,14 +13,14 @@ sidebar:
 
 ### 아래 프로그램 설치
 
-![img.png](../images/2024-03-17-liveUpdate/img.png)
+![img.png]({{site.url}}/images/2024-03-17-liveUpdate/img.png)
 
 [루비 다운로드](https://www.ruby-lang.org/en/downloads/)
 
 
 On Windows machines, you can use RubyInstaller.에 **RubyInstaller**클릭
 
-![img.png](../images/2024-03-17-liveUpdate/rubyinstall.png)
+![img.png]({{site.url}}/images/2024-03-17-liveUpdate/rubyinstall.png)
 =>클릭 후 with devkit 아래 Ruby+Devkit(x64) 클릭
 
 => 설치 완료 후 창이 뜨면 MSYS2 and MINGW development toolchain (3)선택

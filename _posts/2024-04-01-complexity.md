@@ -2,7 +2,7 @@
 layout: single
 title:  "복잡도"
 categories: algorithms
-tags: [data_structure, algorithms]
+tags: [data_structure, complexity, algorithms]
 author_profile: false
 sidebar:
   nav: "docs"

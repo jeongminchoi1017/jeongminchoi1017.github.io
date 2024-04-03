@@ -8,6 +8,8 @@ sidebar:
   nav: "docs"
 ---
 **참고로 이 글은 업로드 날짜가 어떻게 설정되는지 확인하기 위해 4월3일에 쓰고 파일은 4월4일로 만들었음.**
+-> 오늘 날짜가 아닌 내일 날짜로 올리니 블로그에 글이 올라가지 않는 것을 알았습니다. 
+그래서 다시 파일이름을 바꾸어 보았습니다. 
 
 ## 문제
 
@@ -19,11 +21,11 @@ sidebar:
 
 하지만 이게 웬걸,
 
-![문제점]({{site.url}}/images/2024-04-04-githubgrass/img.png)
+![문제점]({{site.url}}/images/2024-04-03-githubgrass/img.png)
 
 난 열심히 커밋을 하고 블로그 글을 업로드 했는데 **없다!**
 
-![img.png]({{site.url}}/images/2024-04-04-githubgrass/CyM0EaOVIAI4fOQ.jpg)
+![img.png]({{site.url}}/images/2024-04-03-githubgrass/CyM0EaOVIAI4fOQ.jpg)
 
 ### 왜 잔디가 심어지지 않을까? 
 
@@ -53,7 +55,7 @@ git config --list
 ```
 이렇게 진행하면 됩니다. 하지만 나의 경우 이 방식이 아니었습니다.
 
-### 진짜 이유
+## 원인
 
 **fork를 이용해 레포지토리를 만든 경우** 
 
@@ -61,7 +63,7 @@ git config --list
 
 독립형 저장소가 아니었기 때문에 커밋을 해도 잔디가 기록이 되지 않았습니다.
 
-### 해결방안
+## 해결방안
 
 1. 레포지토리를 삭제 후 새 레포지토리로 옮기는 방법
 
@@ -86,8 +88,28 @@ chatbot-virtual-assistant 링크를 클릭하면 창이 뜹니다.
 
 그렇게 하면 ticket을 생성해주고 저희는 기다리면 됩니다.
 
-![img_1png]({{site.url}}/images/2024-04-04-githubgrass/img_1png)
+![img_1png]({{site.url}}/images/2024-04-03-githubgrass/img_1png)
 
 좀 오래 기다려야 돼서 아직 잘 되었는지는 확인이 불가능합니다.
 
 만약 잘 되었다면 다시 글을 수정해 보겠습니다.
+
+***
+**2시간 뒤 수정**
+
+## 해결완료
+
+2시간 가량 지난 뒤 github를 확인해보니 
+
+![img_2.png]({{site.url}}/images/2024-04-03-githubgrass/img_2.png)
+
+fork한 repository라는 문구가 사라지고 
+
+![이후]({{site.url}}/images/2024-04-03-githubgrass/img_3.png)
+
+![이전]({{site.url}}/images/2024-04-03-githubgrass/img.png)
+
+이렇게 커밋에 따라 달라진 모습을 볼 수 있었습니다.
+이전 작업도 사라지지 않고 잘 심겨있었습니다. 
+
+이렇게 해결 완료!

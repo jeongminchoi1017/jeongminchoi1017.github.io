@@ -9,7 +9,7 @@ sidebar:
 ---
 
 <div class="notice--warning">
-  <h4>참고사항</h4>
+  <strong>참고사항</strong>
   <ul>
     <li>
       이 글은 업로드 날짜가 어떻게 설정되는지 확인하기 위해 4월3일에 쓰고 파일은 4월4일로 만들었음.<br>

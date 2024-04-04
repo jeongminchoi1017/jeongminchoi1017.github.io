@@ -36,6 +36,7 @@ sidebar:
 난 열심히 커밋을 하고 블로그 글을 업로드 했는데 **없다!**
 
 ![img.png]({{site.url}}/images/2024-04-03-githubgrass/CyM0EaOVIAI4fOQ.jpg)
+{: .img-size-half}
 
 ## 왜 잔디가 심어지지 않을까? 
 

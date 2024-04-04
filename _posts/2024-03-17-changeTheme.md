@@ -6,7 +6,7 @@ tags: [blog, theme]
 toc: true
 author_profile: false
 sidebar:
-  nav: "docs"
+  nav: "counts"
 ---
 
 ### _config.yml 안에서 설정값을 변경

@@ -5,7 +5,7 @@ categories: github_blog
 tags: [gihub_blog, grass, error]
 author_profile: false
 sidebar:
-  nav: "docs"
+  nav: "counts"
 ---
 
 <div class="notice--warning">

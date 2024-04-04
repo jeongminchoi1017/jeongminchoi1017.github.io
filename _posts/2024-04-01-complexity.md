@@ -5,7 +5,7 @@ categories: algorithms
 tags: [data_structure, complexity, algorithms]
 author_profile: false
 sidebar:
-  nav: "docs"
+  nav: "counts"
 ---
 # 시간 복잡도
 ```

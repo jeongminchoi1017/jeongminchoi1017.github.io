@@ -7,6 +7,7 @@ author_profile: false
 sidebar:
   nav: "counts"
 ---
+
 | 구조                  | 설명                                 |
 | ------------------- | ---------------------------------- |
 | ROWS                | 부분집합인 윈도우 크기를 물리적 단위로 행의 집합을 지정한다. |
@@ -15,6 +16,7 @@ sidebar:
 | UNBOUNDED PRECEDING | 윈도우의 시작 위치가 첫 번째 행임을 의미한다.         |
 | UNBOUNDED FOLLOWING | 윈도우 마지막 위치가 마지막 행임을 의미한다.          |
 | CURRENT ROW         | 윈도우 시작 위치가 현재 행임을 의미한다.            |
+
 ```
 ROWS BETWEEN UNBOUNDED PRECENDING
 	AND UNBOUNDED FOLLOWING

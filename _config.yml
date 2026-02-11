@@ -145,7 +145,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jeongminchoi1017"
     - label: "티스토리로 이전함.(2025 ~ )"
-      icon: "fab fa-fw fa-tistory"
+      icon: "fab fa-fw fa-archive"
       url: "https://mini-archive.tistory.com/"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
